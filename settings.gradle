@@ -1,0 +1,2 @@
+rootProject.name='MyBeautyApplication'
+include ':app'
